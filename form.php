@@ -20,5 +20,8 @@
 		<input type="text" name="apellido" id="apellido" placeholder="Ingrese su apellido"><br><br>
 		<input type="submit" value="Send">
 	</form>
+	<footer>
+		<h3>Gracias</h3>
+	</footer>
 </body>
 </html>
